@@ -52,7 +52,7 @@ public class AreaTriangulo {
 		frame.setTitle("AreaTriangulo");
 		frame.setLocationRelativeTo(null);
 		frame.setIconImage(Toolkit.getDefaultToolkit().getImage(AreaTriangulo.class.getResource("/img/Icono.png")));
-		frame.getContentPane().setLayout(null);
+		
 		
 		JLabel lblBase = new JLabel("BASE");
 		lblBase.setBorder(new LineBorder(new Color(0, 0, 0)));
